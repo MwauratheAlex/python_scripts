@@ -1,4 +1,16 @@
 #!/usr/bin/python3
+"""
+This module performs:
+    - git add .
+    - git commit
+    - git push
+
+The commit message is gotten from sys.argv
+
+Example:
+    push initial commit
+"""
+
 
 import os
 import sys
