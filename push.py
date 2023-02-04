@@ -11,9 +11,7 @@ Example:
     push initial commit
 """
 
-
 import os
-import sys
 
 commit_message = " ".join(s for s in sys.argv[1:])
 
