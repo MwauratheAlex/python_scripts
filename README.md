@@ -1,11 +1,12 @@
-# python_scripts
+# python scripts
+This repository contains python scripts that automate
+daily repetitive tasks.
 
-## push.py
+Scripts are as listed below.
+
+## 1. push.py
 This script automates the git add .,git commit -m message, and the git push command.
 Running the script runs all these commands.
 
-### Usage:
-1. Move the script to your /usr/local/bin/ directory.
-mv push.py /usr/local/bin/
-
-2. Run the script by typing push message
+## 2. merge_pdf.py
+This script will merge several pdf files to form one file
