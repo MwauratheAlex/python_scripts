@@ -4,7 +4,7 @@ import os
 from PyPDF2 import PdfFileMerger
 
 # Directory containing PDF files to merge
-dir_path = os.path.join(os.path.expanduser('~'), 'work/9')
+dir_path = os.path.join(os.path.expanduser('~'), 'work/pdf_files')
 
 # Create a PdfFileMerger object
 merger = PdfFileMerger()
