@@ -9,4 +9,4 @@ This script automates the git add .,git commit -m message, and the git push comm
 Running the script runs all these commands.
 
 ## 2. merge_pdf.py
-This script will merge several pdf files to form one file
+This script will merge several pdf files to form one file.
